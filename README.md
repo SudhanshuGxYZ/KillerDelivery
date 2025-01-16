@@ -3,7 +3,10 @@
 KillerDelivery 🚚💀
 
 Welcome to the KillerDelivery website! 
-This project is a showcase of creativity, web development skills, and interactive storytelling. Explore the experience by visiting the live site: https://13sudhanshu.github.io/KillerDelivery/.
+This project is a showcase of creativity, web
+development skills, and interactive storytelling.
+Explore the experience by visiting the live 
+site: https://13sudhanshu.github.io/KillerDelivery/.
 
 
 ---
