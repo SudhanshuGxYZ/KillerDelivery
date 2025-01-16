@@ -1,11 +1,8 @@
-Here’s a suggested README file for your GitHub repository for the website: https://13sudhanshu.github.io/KillerDelivery/
-
-
 ---
 
 KillerDelivery 🚚💀
 
-Welcome to the KillerDelivery website! This project is a showcase of creativity, web development skills, and interactive storytelling. Explore the experience by visiting the live site: KillerDelivery.
+Welcome to the KillerDelivery website! This project is a showcase of creativity, web development skills, and interactive storytelling. Explore the experience by visiting the live site: https://13sudhanshu.github.io/KillerDelivery/.
 
 
 ---
