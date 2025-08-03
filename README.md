@@ -2,7 +2,7 @@
 Killer Delivery 🚚💀
 
 Welcome to the KillerDelivery website! 
-This project is a showcase of creativity, web development skills, and interactive storytelling. Explore the experience by visiting the live site: (https://sudhanshugxyz.github.io/Landing-Page/).
+This project is a showcase of creativity, web development skills, and interactive storytelling. Explore the experience by visiting the live site: ([https://sudhanshugxyz.github.io/Landing-Page/](https://sudhanshugxyz.github.io/KillerDelivery/)).
 
 
 ---
